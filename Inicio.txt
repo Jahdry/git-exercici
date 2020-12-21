@@ -1,3 +1,7 @@
 Hello World!
 
+
 Modifying the master branch to create a conflict on the merging.
+
+This is the text added when branch 1 is created.
+
